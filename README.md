@@ -107,7 +107,7 @@ docker-machine create --driver amazonec2 --amazonec2-access-key <YOUR_ACCESS_KEY
 eval $(docker-machine env <YOUR_MACHINE_NAME>)
 ```
 
-### To run locally
+### To running locally
 
 - Create a local Docker Engine (replace the placeholders and their <> markers):
 ```sh
